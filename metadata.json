@@ -1,0 +1,6 @@
+{
+  "name": "Streetwear E-Commerce Store",
+  "description": "A high-conversion, premium streetwear storefront showcasing collection lookbooks, interactive product customizers, smooth cart checkouts, and real-time business telemetry insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
